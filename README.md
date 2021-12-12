@@ -1,2 +1,2 @@
 # Numerical-mathematics
-Practical part of Numerical mathematics we did on college including Numpy and Pylab.
+Practical part of Numerical mathematics we did on college using Numpy and Pylab.
